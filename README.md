@@ -39,12 +39,12 @@ https://portfolio-marcosoliveiradev.netlify.app/
 Se você tiver alguma dúvida ou pergunta, sinta-se à vontade para entrar em contato comigo:
 
 E-mail: marcosoliveira.dev@aol.com<br>
-Fone: +55 (81) 99518-7088<br>
+Fone: +55 (81) 99776-9927<br>
 # Mídia social
 Conecte-se comigo nas redes sociais:
 
-GitHub: marcosoliveira253<br>
+GitHub: marcosfrontend-dev<br>
 Linkedin: marcos-oliveira253<br>
-Instagram: @marcosoliveira_dev<br>
+
 Obrigado por visitar o site do meu portfólio.<br>
 Espero que você goste de explorá-lo!
